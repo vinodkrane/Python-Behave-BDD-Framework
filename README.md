@@ -16,7 +16,7 @@ Python version >= 3.8
 1. cd project_directory
 2. Activate virtual environment
     ```sh
-    venv\Scripts\activate
+    source venv\Scripts\activate
     ```
 3. Run following command
     ```sh
