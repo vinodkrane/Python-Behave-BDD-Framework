@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This BDD framework built using Python and Behave to support automation testing of websites. This project tries to automate simple flows of cleartrip [ https://www.d3a.io/ ] site.
+This BDD framework built using Python and Behave to support automation testing of websites. This project tries to automate simple flows of sample application i.e. [ https://www.d3a.io/ ] site.
 
 ## Prerequisities
 Python version >= 3.8
